@@ -29,5 +29,5 @@ Engineering Lab
 
 Connect with me
 
-* 🌐 Engineering Portfolio
-* 💼 LinkedIn
+* 🌐 [Engineering Portfolio](https://omar-agha.is-a.dev/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/eng-omar-agha/)
