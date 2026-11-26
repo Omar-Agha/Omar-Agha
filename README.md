@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I’m Omar Agha 👋
 
-<!--
-**Omar-Agha/Omar-Agha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer | Distributed Systems & Microservices
 
-Here are some ideas to get you started:
+I design and develop reliable backend systems, specializing in distributed architectures, microservices, and financial platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineering Focus
+
+* Backend Engineering
+* Distributed Systems & Microservices
+* Domain-Driven Design
+* Event-Driven Architecture
+* Financial Systems
+* Concurrency & Data Consistency
+
+Technology Stack
+
+Backend: .NET, C#, ABP Framework, Laravel, PHP, Spring Boot
+
+Data & Messaging: SQL Server, PostgreSQL, MySQL, Redis, RabbitMQ
+
+Infrastructure: Docker, Kubernetes, Azure, AWS
+
+Engineering Lab
+
+* .NET Microservice Templates — Reusable foundations for distributed applications.
+* 7ake — E-Commerce Platform — Domain modeling, inventory consistency, and payment architecture.
+* Spring Boot Remittance Lab — Financial domain modeling and modular backend architecture.
+
+Connect with me
+
+* 🌐 Engineering Portfolio
+* 💼 LinkedIn
